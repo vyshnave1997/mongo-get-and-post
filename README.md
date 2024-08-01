@@ -1,6 +1,3 @@
-Creating a well-structured `README.md` file for your GitHub repository helps others understand your project, its purpose, and how to use it. Here’s a template for a `README.md` file tailored to a Node.js application with MongoDB:
-
----
 
 # My Node.js Application
 
